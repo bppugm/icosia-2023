@@ -2,7 +2,7 @@
 
 # Website for the ICoSIA UGM 2023
 
-This is the copy of website for The 4<sup>th</sup> International Conference on Smart and Innovative Agriculture (ICoSIA 2023), hosted by Universitas Gadjah Mada on 10-11 October 2022.
+This is the copy of website for The 4<sup>th</sup> International Conference on Smart and Innovative Agriculture (ICoSIA 2023), hosted by Universitas Gadjah Mada on 10-11 October 2023.
 
 ## Credits
 
