@@ -42,7 +42,7 @@ All symposia images are free to use via Unsplash and Pexels.
 + UGM and ICoSIA logos © Universitas Gadjah Mada
 
 ### Other images
-All illustration images are free to use via Freepik.
+All illustration images are free to use via Freepik, Unsplash, and Flickr.
 + Submission page by [pikisuperstar](https://www.freepik.com/free-vector/hand-drawn-flat-design-people-waving-illustration_21559261.htm); [Free to use](https://www.freepikcompany.com/legal?_gl=1*1mzv534*fp_ga*NDY3NDMwMDk4LjE2ODA3MjU1NjI.*fp_ga_QWX66025LC*MTY4MDkyMzUzOS41LjEuMTY4MDkyMzU4My4xNi4wLjA.*_ga*NDY3NDMwMDk4LjE2ODA3MjU1NjI.*_ga_18B6QPTJPC*MTY4MDkyMzUzOS41LjAuMTY4MDkyMzU0Mi41Ny4wLjA.#nav-freepik-license).
 + 404 page by [pch.vector](https://www.freepik.com/free-vector/people-using-online-apps-set_6974932.htm); [Free to use](https://www.freepikcompany.com/legal?_gl=1*1mzv534*fp_ga*NDY3NDMwMDk4LjE2ODA3MjU1NjI.*fp_ga_QWX66025LC*MTY4MDkyMzUzOS41LjEuMTY4MDkyMzU4My4xNi4wLjA.*_ga*NDY3NDMwMDk4LjE2ODA3MjU1NjI.*_ga_18B6QPTJPC*MTY4MDkyMzUzOS41LjAuMTY4MDkyMzU0Mi41Ny4wLjA.#nav-freepik-license).
 + Tugu Yogyakarta by [Angga Kurniawan](https://unsplash.com/photos/CzQaFeSYzcI); [Free to use](https://unsplash.com/license).
